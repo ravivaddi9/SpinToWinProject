@@ -1,0 +1,45 @@
+﻿@page "/game"
+@inject NavigationManager Nav
+@inject HttpClient Http
+
+<h3>Game!</h3>
+
+<button @onclick="Spin" disabled="@isSpinning">
+    @if (isSpinning)
+    {
+        <span>SPINNING...</span>
+    }
+    else
+    {
+
+        <span>SPIN</span>
+    }
+</button>
+
+@code {
+    private bool isSpinning = false;
+
+    async Task Spin()
+    {
+        isSpinning = true;
+        try
+        {
+            // Makes the asynchronous POST request to your API
+            var response = await Http.PostAsJsonAsync("/api/game/play", new { /* payload if needed */ });
+
+            if (response.IsSuccessStatusCode)
+            {
+                // Handle success (e.g., update game state)
+            }
+        }
+        catch (Exception ex)
+        {
+            // Handle connection or server errors
+        }
+        finally
+        {
+            isSpinning = false;
+        }
+    }
+
+}

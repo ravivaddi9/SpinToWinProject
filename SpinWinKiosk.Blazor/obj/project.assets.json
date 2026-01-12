@@ -1,0 +1,165 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "System.Net.Http/4.0.0": {
+        "type": "package",
+        "compile": {
+          "ref/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      },
+      "SpinWinKiosk.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/SpinWinKiosk.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SpinWinKiosk.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Net.Http/4.0.0": {
+      "sha512": "mZuAl7jw/mFY8jUq4ITKECxVBh9a8SJt9BC/+lJbmo7cRKspxE3PsITz+KiaCEsexN5WYPzwBOx0oJH/0HlPyQ==",
+      "type": "package",
+      "path": "system.net.http/4.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "lib/DNXCore50/System.Net.Http.dll",
+        "lib/net45/_._",
+        "lib/netcore50/System.Net.Http.dll",
+        "lib/win8/_._",
+        "lib/wpa81/_._",
+        "ref/dotnet/System.Net.Http.dll",
+        "ref/dotnet/System.Net.Http.xml",
+        "ref/dotnet/de/System.Net.Http.xml",
+        "ref/dotnet/es/System.Net.Http.xml",
+        "ref/dotnet/fr/System.Net.Http.xml",
+        "ref/dotnet/it/System.Net.Http.xml",
+        "ref/dotnet/ja/System.Net.Http.xml",
+        "ref/dotnet/ko/System.Net.Http.xml",
+        "ref/dotnet/ru/System.Net.Http.xml",
+        "ref/dotnet/zh-hans/System.Net.Http.xml",
+        "ref/dotnet/zh-hant/System.Net.Http.xml",
+        "ref/net45/_._",
+        "ref/netcore50/System.Net.Http.dll",
+        "ref/netcore50/System.Net.Http.xml",
+        "ref/win8/_._",
+        "ref/wpa81/_._",
+        "system.net.http.4.0.0.nupkg.sha512",
+        "system.net.http.nuspec"
+      ]
+    },
+    "SpinWinKiosk.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SpinWinKiosk.Domain/SpinWinKiosk.Domain.csproj",
+      "msbuildProject": "../SpinWinKiosk.Domain/SpinWinKiosk.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "SpinWinKiosk.Domain >= 1.0.0",
+      "System.Net.Http >= 4.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Malleswari\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Malleswari\\source\\repos\\SpinToWin\\SpinWinKiosk.Blazor\\SpinWinKiosk.Blazor.csproj",
+      "projectName": "SpinWinKiosk.Blazor",
+      "projectPath": "C:\\Users\\Malleswari\\source\\repos\\SpinToWin\\SpinWinKiosk.Blazor\\SpinWinKiosk.Blazor.csproj",
+      "packagesPath": "C:\\Users\\Malleswari\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Malleswari\\source\\repos\\SpinToWin\\SpinWinKiosk.Blazor\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Malleswari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Users\\Malleswari\\source\\repos\\SpinToWin\\SpinWinKiosk.Domain\\SpinWinKiosk.Domain.csproj": {
+              "projectPath": "C:\\Users\\Malleswari\\source\\repos\\SpinToWin\\SpinWinKiosk.Domain\\SpinWinKiosk.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "System.Net.Http": {
+            "target": "Package",
+            "version": "[4.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Net.Http 4.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "libraryId": "System.Net.Http",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

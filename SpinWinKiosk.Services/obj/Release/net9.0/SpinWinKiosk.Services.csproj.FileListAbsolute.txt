@@ -1,0 +1,15 @@
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\bin\Release\net9.0\SpinWinKiosk.Services.deps.json
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\bin\Release\net9.0\SpinWinKiosk.Services.dll
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\bin\Release\net9.0\SpinWinKiosk.Services.pdb
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\bin\Release\net9.0\SpinWinKiosk.Domain.dll
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\bin\Release\net9.0\SpinWinKiosk.Domain.pdb
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\obj\Release\net9.0\SpinWinKiosk.Services.csproj.AssemblyReference.cache
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\obj\Release\net9.0\SpinWinKiosk.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\obj\Release\net9.0\SpinWinKiosk.Services.AssemblyInfoInputs.cache
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\obj\Release\net9.0\SpinWinKiosk.Services.AssemblyInfo.cs
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\obj\Release\net9.0\SpinWinKiosk.Services.csproj.CoreCompileInputs.cache
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\obj\Release\net9.0\SpinWinK.E782C2E6.Up2Date
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\obj\Release\net9.0\SpinWinKiosk.Services.dll
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\obj\Release\net9.0\refint\SpinWinKiosk.Services.dll
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\obj\Release\net9.0\SpinWinKiosk.Services.pdb
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\obj\Release\net9.0\ref\SpinWinKiosk.Services.dll

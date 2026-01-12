@@ -1,0 +1,11 @@
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Domain\bin\Debug\net9.0\SpinWinKiosk.Domain.deps.json
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Domain\bin\Debug\net9.0\SpinWinKiosk.Domain.dll
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Domain\bin\Debug\net9.0\SpinWinKiosk.Domain.pdb
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Domain\obj\Debug\net9.0\SpinWinKiosk.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Domain\obj\Debug\net9.0\SpinWinKiosk.Domain.AssemblyInfoInputs.cache
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Domain\obj\Debug\net9.0\SpinWinKiosk.Domain.AssemblyInfo.cs
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Domain\obj\Debug\net9.0\SpinWinKiosk.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Domain\obj\Debug\net9.0\SpinWinKiosk.Domain.dll
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Domain\obj\Debug\net9.0\refint\SpinWinKiosk.Domain.dll
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Domain\obj\Debug\net9.0\SpinWinKiosk.Domain.pdb
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Domain\obj\Debug\net9.0\ref\SpinWinKiosk.Domain.dll

@@ -1,0 +1,14 @@
+﻿@page "/attract"
+@inject NavigationManager Nav
+
+<div class="game-container">
+    <h1>Spin & Win!</h1>
+    <button class="btn-start" @onclick="GoToLogin">Tap to Start</button>
+</div>
+
+@code {
+    private void GoToLogin()
+    {
+        Nav.NavigateTo("/login");
+    }
+}

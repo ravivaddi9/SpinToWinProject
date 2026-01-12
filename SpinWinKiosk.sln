@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinWinKiosk.API", "SpinToWin\SpinWinKiosk.API.csproj", "{C1E00808-BEE8-44E3-86AC-894986C458DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinWinKiosk.Blazor", "SpinWinKiosk.Blazor\SpinWinKiosk.Blazor.csproj", "{5AE7AA1F-2E40-4747-8027-B1ABB3F2268D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinWinKiosk.Domain", "SpinWinKiosk.Domain\SpinWinKiosk.Domain.csproj", "{8C637E2D-E299-4B2F-8958-9D396A256327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinWinKiosk.Services", "SpinWinKiosk.Services\SpinWinKiosk.Services.csproj", "{B9048A77-8F0A-4A92-9906-E923300002DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinWinKiosk.Tests", "SpinWinKiosk.Tests\SpinWinKiosk.Tests.csproj", "{68ADD46F-17E6-4126-BB41-99B3A07EFD49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1E00808-BEE8-44E3-86AC-894986C458DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E00808-BEE8-44E3-86AC-894986C458DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E00808-BEE8-44E3-86AC-894986C458DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E00808-BEE8-44E3-86AC-894986C458DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AE7AA1F-2E40-4747-8027-B1ABB3F2268D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE7AA1F-2E40-4747-8027-B1ABB3F2268D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE7AA1F-2E40-4747-8027-B1ABB3F2268D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE7AA1F-2E40-4747-8027-B1ABB3F2268D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C637E2D-E299-4B2F-8958-9D396A256327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C637E2D-E299-4B2F-8958-9D396A256327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C637E2D-E299-4B2F-8958-9D396A256327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C637E2D-E299-4B2F-8958-9D396A256327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9048A77-8F0A-4A92-9906-E923300002DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9048A77-8F0A-4A92-9906-E923300002DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9048A77-8F0A-4A92-9906-E923300002DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9048A77-8F0A-4A92-9906-E923300002DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68ADD46F-17E6-4126-BB41-99B3A07EFD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68ADD46F-17E6-4126-BB41-99B3A07EFD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68ADD46F-17E6-4126-BB41-99B3A07EFD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68ADD46F-17E6-4126-BB41-99B3A07EFD49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FCCA82C-511D-4C0A-87D6-251332EFD244}
+	EndGlobalSection
+EndGlobal

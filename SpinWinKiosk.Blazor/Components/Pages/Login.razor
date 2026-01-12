@@ -1,0 +1,24 @@
+﻿@page "/login"
+@inject NavigationManager NavigationManager
+@inject HttpClient Http 
+
+<h3>Login</h3>
+<input @bind="playerId" placeholder="Enter Player ID" />
+<button @onclick="login">Login</button>
+
+@code {
+    private string playerId = "";
+
+    private async Task login()
+    {
+        if (!string.IsNullOrEmpty(playerId))
+        {
+            // Add your API call logic here
+            // await MyApiService.VerifyPlayer(playerId);
+            await Http.PostAsJsonAsync("api/player/login", playerId);
+
+            // Navigate to the desired page (e.g., "/dashboard")
+            NavigationManager.NavigateTo("/game");
+        }
+    }
+}
