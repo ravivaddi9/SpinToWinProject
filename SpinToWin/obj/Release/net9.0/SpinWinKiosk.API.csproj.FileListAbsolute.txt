@@ -186,3 +186,4 @@ C:\Users\Malleswari\source\repos\SpinToWin\SpinToWin\obj\Release\net9.0\refint\S
 C:\Users\Malleswari\source\repos\SpinToWin\SpinToWin\obj\Release\net9.0\SpinWinKiosk.API.pdb
 C:\Users\Malleswari\source\repos\SpinToWin\SpinToWin\obj\Release\net9.0\SpinWinKiosk.API.genruntimeconfig.cache
 C:\Users\Malleswari\source\repos\SpinToWin\SpinToWin\obj\Release\net9.0\ref\SpinWinKiosk.API.dll
+C:\Users\Malleswari\source\repos\SpinToWin\SpinToWin\obj\Release\net9.0\SpinWinKiosk.API.sourcelink.json

@@ -13,3 +13,4 @@ C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\obj\Release\net
 C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\obj\Release\net9.0\refint\SpinWinKiosk.Services.dll
 C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\obj\Release\net9.0\SpinWinKiosk.Services.pdb
 C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\obj\Release\net9.0\ref\SpinWinKiosk.Services.dll
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Services\obj\Release\net9.0\SpinWinKiosk.Services.sourcelink.json

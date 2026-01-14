@@ -102,3 +102,4 @@ C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Tests\obj\Release\net9.0
 C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Tests\obj\Release\net9.0\SpinWinKiosk.Tests.pdb
 C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Tests\obj\Release\net9.0\SpinWinKiosk.Tests.genruntimeconfig.cache
 C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Tests\obj\Release\net9.0\ref\SpinWinKiosk.Tests.dll
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Tests\obj\Release\net9.0\SpinWinKiosk.Tests.sourcelink.json

@@ -9,3 +9,4 @@ C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Domain\obj\Release\net9.
 C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Domain\obj\Release\net9.0\refint\SpinWinKiosk.Domain.dll
 C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Domain\obj\Release\net9.0\SpinWinKiosk.Domain.pdb
 C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Domain\obj\Release\net9.0\ref\SpinWinKiosk.Domain.dll
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Domain\obj\Release\net9.0\SpinWinKiosk.Domain.sourcelink.json

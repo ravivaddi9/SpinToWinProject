@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpinWinKiosk.Blazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ead9ccd4d411c61e1fbeadeb8165a3635d55410")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpinWinKiosk.Blazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpinWinKiosk.Blazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

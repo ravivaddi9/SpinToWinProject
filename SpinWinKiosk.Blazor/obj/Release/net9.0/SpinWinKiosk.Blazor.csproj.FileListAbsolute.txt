@@ -81,3 +81,4 @@ C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Blazor\obj\Release\net9.
 C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Blazor\obj\Release\net9.0\SpinWinKiosk.Blazor.pdb
 C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Blazor\obj\Release\net9.0\SpinWinKiosk.Blazor.genruntimeconfig.cache
 C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Blazor\obj\Release\net9.0\ref\SpinWinKiosk.Blazor.dll
+C:\Users\Malleswari\source\repos\SpinToWin\SpinWinKiosk.Blazor\obj\Release\net9.0\SpinWinKiosk.Blazor.sourcelink.json
